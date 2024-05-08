@@ -1,3 +1,5 @@
+package Primeiro_Projeto.Trilha_Java.src;
+
 public class MyClass {
 
     /* Primeira letra Maiuscula e Segundas palavras também */
