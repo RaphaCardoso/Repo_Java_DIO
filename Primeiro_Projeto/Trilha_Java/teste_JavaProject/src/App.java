@@ -9,3 +9,5 @@ public class App {
  * este é o nosso bytecode com arquivos .class
  * 
  */
+
+// Processo => Criar classe - Compilar - Executar
